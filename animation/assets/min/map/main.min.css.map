@@ -1,0 +1,1 @@
+{"version":3,"sources":["master.scss","variables.scss"],"names":[],"mappings":"AAKA,WAEA,4BCPe,CDQf","file":"main.min.css","sourcesContent":["@import 'variables';\r\n\r\nbody {\r\n}\r\n\r\nlist{\r\n    .post{\r\n        border-bottom: 1px solid $black;\r\n    }\r\n}\r\n","$black: #000000;\r\n$white: #FFFFFF;"],"sourceRoot":"/source/"}
